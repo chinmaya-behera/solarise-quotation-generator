@@ -1,6 +1,6 @@
 "use client"
 
-import { Document, Font, Page, StyleSheet, Text, View } from "@react-pdf/renderer"
+import { Document, Font, Page, StyleSheet, Text, View, Image } from "@react-pdf/renderer"
 import {
   COMPANY,
   type Quotation,
